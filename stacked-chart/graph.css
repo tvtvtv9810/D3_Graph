@@ -1,0 +1,13 @@
+h1{
+  font-size: small;
+  font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+}
+
+svg{
+  font: 12px sans-serif;
+  background-color: #eee;
+  text-align: right;
+  padding: 3px;
+  margin: 1px;
+  color: #333;
+}
